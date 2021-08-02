@@ -10,7 +10,7 @@ h1{text-align:center!important;margin-top:50px!important;font-weight:100!importa
 .resume-text a img{ padding-right:14px;}
 @media screen and (max-width: 576px) {.resume-text a{justify-content: center;}}
 @media screen and (min-width: 575px) {.resume-text a{justify-content: flex-end;}}
-.light-mode{color:#fff!important;background:#fff!important;}
+.light-mode{color:#1d1e21!important;background:#fff!important;}
 .light-mode .resume-img{ background: url(../img/download-cloud.svg) no-repeat;}
 .resume-img{margin-right: 5px; display: block; -moz-box-sizing: border-box; box-sizing: border-box; width: 30px; height: 30px; background: url(../img/download-cloud-light.svg) no-repeat; }
 button{  background: url(../img/sun.svg) no-repeat;  color: transparent;  box-shadow: none;  border: none;  width: 50px;  height: 50px;  background-position: center;  position: absolute;  cursor: pointer;  }
