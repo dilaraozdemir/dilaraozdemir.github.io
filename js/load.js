@@ -25,7 +25,7 @@ function loadSocialIcons() {
 loadSocialIcons()
 var resume = [{
     img: "img/download.svg",
-    link: "resume/DilaraOzdemirCV.pdf"
+    link: "DilaraOzdemirCV.pdf"
 }]
 
 function loadResume() {
