@@ -25,7 +25,7 @@ function loadSocialIcons() {
 loadSocialIcons()
 var resume = [{
     img: "img/download.svg",
-    link: "resume/DilaraOzdemirCV.pdf"
+    link: "DilaraOzdemirCV.pdf"
 }]
 
 function loadResume() {
@@ -37,5 +37,13 @@ function loadResume() {
     document.getElementById("resume").innerHTML = socialtext;
 }
 
+<<<<<<< HEAD
 
 loadResume()
+=======
+loadResume()
+
+
+
+
+>>>>>>> 7ea7098fb1d3c62e31cf720dc8a9c1c9024c9007

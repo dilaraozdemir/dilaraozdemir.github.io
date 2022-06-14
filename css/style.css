@@ -11,4 +11,8 @@ h1{text-align:center!important;margin-top:50px!important;font-weight:100!importa
 @media screen and (max-width: 576px) {.resume-text a{justify-content: center;}}
 @media screen and (min-width: 575px) {.resume-text a{justify-content: flex-end;}}
 .resume-img{margin-right: 5px; display: block; -moz-box-sizing: border-box; box-sizing: border-box; width: 30px; height: 30px; background: url(../img/download-cloud-light.svg) no-repeat; }
+<<<<<<< HEAD
 button:focus {outline:0;}
+=======
+button:focus {outline:0;}
+>>>>>>> 7ea7098fb1d3c62e31cf720dc8a9c1c9024c9007
